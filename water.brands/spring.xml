@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+        
+        <beans>
+        <bean id="aquafina" class="com.richoco.water.brands.Aquafina" />
+        <bean id="polandspring" class="com.richoco.water.brands.PolandSpring" />
+        <bean id="nestle" class="com.richoco.water.brands.Nestle" />
+        <bean id="fuji" class="com.richoco.water.brands.Fuji" />
+        <bean id="dasani" class="com.richoco.water.brands.Dasani" />
+        </beans>
